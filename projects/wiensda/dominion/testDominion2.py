@@ -26,6 +26,13 @@ trash = []
 # Construct the Player objects
 players = tU.getPlayers(player_names)
 
+#########################
+# TEST SCENARIO 2
+
+players = []
+
+#########################
+
 # Play the game
 turn = 0
 while not Dominion.gameover(supply):

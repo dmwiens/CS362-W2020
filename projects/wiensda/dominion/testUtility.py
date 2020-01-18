@@ -4,10 +4,6 @@ import random
 from collections import defaultdict
 
 
-def testFunc(x):
-    return x + 2
-
-
 def getPlayerNames():
     return ["Annie","*Ben","*Carla"]
 

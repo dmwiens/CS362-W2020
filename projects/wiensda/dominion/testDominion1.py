@@ -28,6 +28,13 @@ trash = []
 # Construct the Player objects
 players = tU.getPlayers(player_names)
 
+#########################
+# TEST SCENARIO 1
+
+supply["Province"] = []
+
+#########################
+
 
 # Play the game
 turn = 0
