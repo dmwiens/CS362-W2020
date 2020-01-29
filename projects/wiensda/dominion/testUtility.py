@@ -1,5 +1,5 @@
 
-import Dominion
+from projects.wiensda.dominion import Dominion
 import random
 from collections import defaultdict
 
